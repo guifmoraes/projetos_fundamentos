@@ -1,0 +1,30 @@
+    ul head {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: none;
+        background-color: rgb(0, 0, 0); 
+      }
+    
+      li {
+        float: left;
+      }
+    
+    li a {
+      display: block;
+      color: rgb(250, 6, 6);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: hidden;
+    }
+    
+    li a:hover {
+      background-color: rgb(255, 255, 255);
+    }
+    
+  
+    p {
+        text-align: justify
+    }
+    
+      

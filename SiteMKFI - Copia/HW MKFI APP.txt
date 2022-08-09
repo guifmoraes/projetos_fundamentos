@@ -1,0 +1,31 @@
+Priority List
+
+-Fix Feedback Box "Code a script to suport and code a box with,
+ email fullname and the mensage for feedback (rafa)"
+
+-Code a new Main Page
+
+-css (felipe or romulo)
+
+Check List
+
+-Fix/Change Cyrax BG Pic
+
+-Write BG like R6 from Charaters for MKFI
+Ermac (Pic Check)
+Shao Khan (Pic Check)
+Sector (Pic Check)
+Cyrax (Pic Check)  (rafa)
+
+-think and write updates note in news (rafa)
+
+-And code Menu (rafa)
+
+-Do "About Us" (rafa)
+
+-Trailer
+rec,edit and do a epic song (probably rafa)
+
+-Fix Menu (last) (rafa)
+
+-Draw Surprised Pig Symbol (gui)
