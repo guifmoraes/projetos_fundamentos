@@ -1,0 +1,69 @@
+<html>
+
+<head>
+  
+</head>
+
+<style>
+
+    table, td, th {  
+      border: 5px solid rgb(1, 6, 82);
+      text-align: center;
+    }
+    
+    table {
+      border-collapse: collapse;
+      width: 50%;
+    }
+    
+    th, td {
+      padding: 15px;
+    }
+    .button {
+  background-color:rgb(0, 0, 0);
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;    
+  font-size: 16px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.butao:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+</style>
+
+<body>
+<br><br><br><br>
+<center><img onclick="Select()"onmouseenter="ImagemGrande(this)" onmouseleave="ImagemNormal(this)" border="5" width="100px" height="100px" src="KRATOS.jpg"></center>
+<script src='Javinha EX4.js'>
+</script>
+
+<center><table>
+<tr>
+<td>Nome:<br>
+<input id="N" type="text" name="Nome"></td>
+<br>
+<td>Sobrenome:<br>
+<input id="S" type="text" name="Sobrenome"></td>
+<br><br>
+
+</tr>
+<tr>
+<p id="Result" onmouseenter="Fonte()" onmouseleave="Fonte2()" ></p>
+</tr>
+<br><br>
+
+<tr>
+<td colspan="2"><button class="button butao" onclick="nomear()">NOMEAR</button>
+<button class="button butao" onclick="renomear()">RENOMEAR</button></td>
+</tr>
+
+</table></center>
+
+</body>
