@@ -1,0 +1,17 @@
+{
+  "name": "projeto_um",
+  "version": "1.0.0",
+  "description": "Projeto Marlon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Guilherme",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "nodemailer": "^6.4.6",
+    "upper-case": "^2.0.1"
+  }
+}
