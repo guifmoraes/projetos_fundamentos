@@ -1,0 +1,72 @@
+html,body {
+  font-family: 'Open Sans', serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.hero.is-success {
+  background: #f2f7fa;
+}
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+input {
+  font-weight: 300;
+}
+p {
+  font-weight: 700;
+}
+
+.btn {
+  background-color: #1d9acc;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+.btn:hover {opacity: 1}
+
+a {
+  background-color: transparent;
+  color: black;
+  text-decoration: none;
+}
+
+a:active,
+a:hover {
+  outline-width: 0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px
+}
+
+h1,h2{
+  font-family: 'Alegreya', serif;
+  font-weight: 400;
+  margin: 10px 0
+}
+
+body, h1, h2, p, a, input {
+  font-family: 'Poppins', sans-serif;
+}
+
+a:active,
+a:hover {
+    outline-width: 0;
+}
+
+
