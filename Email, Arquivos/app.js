@@ -14,7 +14,7 @@ var transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
       user: 'powerkombatex@gmail.com',
-      pass: 'senha modificada por motivos óbvios'
+      pass: 'senha modificada'
     }
   });
 var mailOptions = {
